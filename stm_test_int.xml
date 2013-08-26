@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://10.10.100.21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="master" />
+
+  <project path="abi/cpp" name="test/abi/cpp" />
+</manifest>
+
