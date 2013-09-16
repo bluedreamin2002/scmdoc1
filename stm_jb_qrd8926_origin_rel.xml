@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="stm_jb_qrd8926_origin_rel.xml" />
+  <default remote="origin" revision="stm_jb_qrd8926_origin_rel" />
   <project name="jb/csp/qrd/device/asus/deb" path="device/asus/deb"/>
   <project name="jb/csp/qrd/device/asus/flo" path="device/asus/flo"/>
   <project name="jb/csp/qrd/device/asus/flo-kernel" path="device/asus/flo-kernel"/>
