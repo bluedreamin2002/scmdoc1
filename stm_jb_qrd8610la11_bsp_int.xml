@@ -283,6 +283,7 @@
   <project name="jb/csp/qrd/platform/hardware/qcom/media" path="hardware/qcom/media"/>
   <project name="jb/csp/qrd/platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960"/>
   <project name="jb/csp/qrd/platform/hardware/qcom/sensors" path="hardware/qcom/sensors"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/tylt_sensors" path="hardware/qcom/tylt_sensors"/>
   <project name="jb/csp/qrd/platform/hardware/qcom/wlan" path="hardware/qcom/wlan"/>
   <project name="jb/csp/qrd/platform/hardware/ril" path="hardware/ril"/>
   <project name="jb/csp/qrd/platform/hardware/samsung_slsi/exynos5" path="hardware/samsung_slsi/exynos5"/>
@@ -414,6 +415,7 @@
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-proprietary_source" path="vendor/qcom/proprietary"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/mpq8064" path="device/qcom/mpq8064"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/copper" path="device/qcom/msm8974"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/msm7627a" path="device/qcom/msm7627a"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/msm7630_surf" path="device/qcom/msm7630_surf"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/msm8226" path="device/qcom/msm8226"/>
