@@ -84,6 +84,7 @@
   <project name="jb/csp/qrd/platform/external/chromium" path="external/chromium"/>
   <project name="jb/csp/qrd/platform/external/chromium-trace" path="external/chromium-trace"/>
   <project name="jb/csp/qrd/platform/external/clang" path="external/clang"/>
+  <project name="jb/csp/qrd/platform/external/compat-wireless" path="external/compat-wireless"/>
   <project name="jb/csp/qrd/platform/external/compiler-rt" path="external/compiler-rt"/>
   <project name="jb/csp/qrd/platform/external/connectivity" path="external/connectivity"/>
   <project name="jb/csp/qrd/platform/external/crda" path="external/crda"/>
