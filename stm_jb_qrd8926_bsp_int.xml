@@ -423,4 +423,7 @@
   <project name="jb/csp/qrd/platform/vendor/qcom/msm8660_surf" path="device/qcom/msm8660_surf"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/msm8960" path="device/qcom/msm8960"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/zinc" path="device/qcom/apq8084"/>
+  
+  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" revision="stm_jb_cust_int" remote="origin11" />
 </manifest>
