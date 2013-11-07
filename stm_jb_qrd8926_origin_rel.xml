@@ -69,6 +69,7 @@
   <project name="jb/csp/qrd/platform/external/bison" path="external/bison"/>
   <project name="jb/csp/qrd/platform/external/blktrace" path="external/blktrace"/>
   <project name="jb/csp/qrd/platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid"/>
+  <project name="jb/csp/qrd/platform/external/bluetooth/btconfig" path="external/bluetooth/btconfig"/>
   <project name="jb/csp/qrd/platform/external/bouncycastle" path="external/bouncycastle"/>
   <project name="jb/csp/qrd/platform/external/brctl" path="external/brctl"/>
   <project name="jb/csp/qrd/platform/external/bsdiff" path="external/bsdiff"/>
