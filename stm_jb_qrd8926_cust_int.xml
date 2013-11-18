@@ -435,7 +435,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" revision="stm_jb_mtk_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_jb_mtk_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_kt_qrd_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_jb_cust_int" remote="origin11" />
