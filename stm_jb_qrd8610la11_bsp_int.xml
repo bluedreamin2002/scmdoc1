@@ -27,6 +27,7 @@
   <project name="jb/csp/qrd/device/lge/mako-kernel" path="device/lge/mako-kernel"/>
   <project name="jb/csp/qrd/device/qcom/common" path="device/qcom/common">
     <copyfile dest="build.sh" src="build.sh"/>
+    <copyfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
   </project>
   <project name="jb/csp/qrd/device/qcom/msm8x30" path="device/qcom/msm8x30"/>
   <project name="jb/csp/qrd/device/qcom/msm8x30-common" path="device/qcom/msm8x30-common"/>
@@ -74,6 +75,7 @@
   <project name="jb/csp/qrd/platform/external/bison" path="external/bison"/>
   <project name="jb/csp/qrd/platform/external/blktrace" path="external/blktrace"/>
   <project name="jb/csp/qrd/platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid"/>
+  <project name="jb/csp/qrd/platform/external/bluetooth/btconfig" path="external/bluetooth/btconfig"/>
   <project name="jb/csp/qrd/platform/external/bouncycastle" path="external/bouncycastle"/>
   <project name="jb/csp/qrd/platform/external/brctl" path="external/brctl"/>
   <project name="jb/csp/qrd/platform/external/bsdiff" path="external/bsdiff"/>
@@ -84,6 +86,7 @@
   <project name="jb/csp/qrd/platform/external/chromium" path="external/chromium"/>
   <project name="jb/csp/qrd/platform/external/chromium-trace" path="external/chromium-trace"/>
   <project name="jb/csp/qrd/platform/external/clang" path="external/clang"/>
+  <project name="jb/csp/qrd/platform/external/compat-wireless" path="external/compat-wireless"/>
   <project name="jb/csp/qrd/platform/external/compiler-rt" path="external/compiler-rt"/>
   <project name="jb/csp/qrd/platform/external/connectivity" path="external/connectivity"/>
   <project name="jb/csp/qrd/platform/external/crda" path="external/crda"/>
