@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="stm_jb_qrd8926_volte_origin_rel" />
+  <default remote="origin" revision="stm_jb_qrd8926_volte_bsp_int" />
+  <project name="jb/csp/qrd/anno" path="anno"/>
+  <project name="jb/csp/qrd/tybuild" path="tybuild"/>
+  <project name="jb/csp/qrd/tyconfig" path="tyconfig"/>
+  <project name="jb/csp/qrd/tymake" path="tymake"/>
+
   <project name="jb/csp/qrd/device/asus/deb" path="device/asus/deb"/>
   <project name="jb/csp/qrd/device/asus/flo" path="device/asus/flo"/>
   <project name="jb/csp/qrd/device/asus/flo-kernel" path="device/asus/flo-kernel"/>
@@ -400,6 +405,7 @@
   <project name="jb/csp/qrd/platform/system/security" path="system/security"/>
   <project name="jb/csp/qrd/platform/system/vold" path="system/vold"/>
   <project name="jb/csp/qrd/platform/tools/external/fat32lib" path="tools/external/fat32lib"/>
+  <project name="jb/csp/qrd/platform/vendor/k-touch" path="vendor/k-touch"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/bluetooth"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/fm" path="vendor/qcom/opensource/fm"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/kernel/kernel-tests" path="vendor/qcom/opensource/kernel-tests"/>
