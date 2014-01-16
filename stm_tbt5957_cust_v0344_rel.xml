@@ -26,7 +26,7 @@
   <project name="jb/csp/qrd/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/device/lge/mako" path="device/lge/mako" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/device/lge/mako-kernel" path="device/lge/mako-kernel" revision="stm_jb_qrd8926_bsp_int"/>
-  <project name="jb/csp/qrd/device/qcom/common" path="device/qcom/common">
+  <project name="jb/csp/qrd/device/qcom/common" path="device/qcom/common" revision="stm_jb_qrd8926_bsp_int">
     <copyfile dest="build.sh" src="build.sh" />
   </project>
   <project name="jb/csp/qrd/device/qcom/msm8x30" path="device/qcom/msm8x30" revision="stm_jb_qrd8926_bsp_int"/>
@@ -47,7 +47,7 @@
   <project name="jb/csp/qrd/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/platform/bootable/recovery" path="bootable/recovery" revision="stm_jb_qrd8926_bsp_int"/>
-  <project name="jb/csp/qrd/platform/build" path="build">
+  <project name="jb/csp/qrd/platform/build" path="build" revision="stm_jb_qrd8926_bsp_int">
     <copyfile dest="Makefile" src="core/root.mk" />
   </project>
   <project name="jb/csp/qrd/platform/cts" path="cts" revision="stm_jb_qrd8926_bsp_int"/>
