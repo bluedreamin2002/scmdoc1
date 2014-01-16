@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="rel/stm_tbt5957_cust_v0344_rel" />
+  
+  <project name="jb/csp/qrd/anno" path="anno" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/tybuild" path="tybuild" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/tyconfig" path="tyconfig"/>
+  <project name="jb/csp/qrd/tymake" path="tymake" revision="stm_jb_qrd8926_bsp_int"/>
+
+  <project name="jb/csp/qrd/device/asus/deb" path="device/asus/deb" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/asus/flo" path="device/asus/flo" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/asus/flo-kernel" path="device/asus/flo-kernel" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/asus/grouper" path="device/asus/grouper" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/asus/tilapia" path="device/asus/tilapia" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/common" path="device/common" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/common" path="device/generic/common" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/goldfish" path="device/generic/goldfish" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/mini-emulator-armv7-a-neon" path="device/generic/mini-emulator-armv7-a-neon" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/mini-emulator-mips" path="device/generic/mini-emulator-mips" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/mini-emulator-x86" path="device/generic/mini-emulator-x86" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/mips" path="device/generic/mips" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/generic/x86" path="device/generic/x86" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/lge/mako" path="device/lge/mako" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/lge/mako-kernel" path="device/lge/mako-kernel" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/qcom/common" path="device/qcom/common">
+    <copyfile dest="build.sh" src="build.sh" />
+  </project>
+  <project name="jb/csp/qrd/device/qcom/msm8x30" path="device/qcom/msm8x30" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/qcom/msm8x30-common" path="device/qcom/msm8x30-common" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/qcom/msm8x74" path="device/qcom/msm8x74" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/sample" path="device/sample" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung/maguro" path="device/samsung/maguro" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung/manta" path="device/samsung/manta" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung/toro" path="device/samsung/toro" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung/toroplus" path="device/samsung/toroplus" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung/tuna" path="device/samsung/tuna" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/samsung_slsi/arndale" path="device/samsung_slsi/arndale" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/device/ti/panda" path="device/ti/panda" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/kernel/lk" path="bootable/bootloader/lk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/kernel/msm" path="kernel" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/abi/cpp" path="abi/cpp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/bionic" path="bionic" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/bootable/recovery" path="bootable/recovery" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/build" path="build">
+    <copyfile dest="Makefile" src="core/root.mk" />
+  </project>
+  <project name="jb/csp/qrd/platform/cts" path="cts" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/dalvik" path="dalvik" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/developers/build" path="developers/build" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/developers/demos" path="developers/demos" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/developers/docs" path="developers/docs" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/developers/samples/android" path="developers/samples/android" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/development" path="development" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/docs/source.android.com" path="docs/source.android.com" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/aac" path="external/aac" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/alljoyn/alljoyn_core" path="external/alljoyn/alljoyn_core" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/alljoyn/common" path="external/alljoyn/common" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/android-clat" path="external/android-clat" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/android-mock" path="external/android-mock" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ant-glob" path="external/ant-glob" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ant-wireless/ant_native" path="external/ant-wireless/ant_native" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ant-wireless/ant_service" path="external/ant-wireless/ant_service" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/antlr" path="external/antlr" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/apache-harmony" path="external/apache-harmony" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/apache-http" path="external/apache-http" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/apache-qp" path="external/apache-qp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/apache-xml" path="external/apache-xml" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/arduino" path="external/arduino" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bison" path="external/bison" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/blktrace" path="external/blktrace" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bluetooth/btconfig" path="external/bluetooth/btconfig" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bouncycastle" path="external/bouncycastle" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/brctl" path="external/brctl" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bsdiff" path="external/bsdiff" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bson" path="external/bson" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/bzip2" path="external/bzip2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ceres-solver" path="external/ceres-solver" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/checkpolicy" path="external/checkpolicy" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/chromium" path="external/chromium" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/chromium-trace" path="external/chromium-trace" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/clang" path="external/clang" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/compat-wireless" path="external/compat-wireless" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/compiler-rt" path="external/compiler-rt" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/connectivity" path="external/connectivity" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/crda" path="external/crda" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/curl" path="external/curl" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/dexmaker" path="external/dexmaker" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/dhcpcd" path="external/dhcpcd" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/dnsmasq" path="external/dnsmasq" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/doclava" path="external/doclava" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/dropbear" path="external/dropbear" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/e2fsprogs" path="external/e2fsprogs" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/easymock" path="external/easymock" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ebtables" path="external/ebtables" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/eigen" path="external/eigen" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/elfutils" path="external/elfutils" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/embunit" path="external/embunit" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/emma" path="external/emma" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/esd" path="external/esd" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/expat" path="external/expat" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/eyes-free" path="external/eyes-free" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/fdlibm" path="external/fdlibm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/flac" path="external/flac" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/freetype" path="external/freetype" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/fsck_msdos" path="external/fsck_msdos" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ganymed-ssh2" path="external/ganymed-ssh2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/gcc-demangle" path="external/gcc-demangle" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/genext2fs" path="external/genext2fs" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/giflib" path="external/giflib" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/google-diff-match-patch" path="external/google-diff-match-patch" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/grub" path="external/grub" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/gtest" path="external/gtest" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/guava" path="external/guava" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/hamcrest" path="external/hamcrest" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/harfbuzz" path="external/harfbuzz" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/harfbuzz_ng" path="external/harfbuzz_ng" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/hyphenation" path="external/hyphenation" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/icu4c" path="external/icu4c" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/iproute2" path="external/iproute2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ipsec-tools" path="external/ipsec-tools" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/iptables" path="external/iptables" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jack" path="external/jack" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/javasqlite" path="external/javasqlite" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/javassist" path="external/javassist" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jdiff" path="external/jdiff" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jhead" path="external/jhead" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jmdns" path="external/jmdns" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jmonkeyengine" path="external/jmonkeyengine" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jpeg" path="external/jpeg" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jsilver" path="external/jsilver" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/jsr305" path="external/jsr305" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/junit" path="external/junit" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/kernel-headers" path="external/kernel-headers" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/kissfft" path="external/kissfft" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libcap-ng" path="external/libcap-ng" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libffi" path="external/libffi" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libgsm" path="external/libgsm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/liblzf" path="external/liblzf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libmtp" path="external/libmtp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libnfc-nci" path="external/libnfc-nci" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libnl-headers" path="external/libnl-headers" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libogg" path="external/libogg" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libpcap" path="external/libpcap" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libphonenumber" path="external/libphonenumber" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libpng" path="external/libpng" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libppp" path="external/libppp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libselinux" path="external/libselinux" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libsepol" path="external/libsepol" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libusb" path="external/libusb" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libusb-compat" path="external/libusb-compat" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libusb_aah" path="external/libusb_aah" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libvorbis" path="external/libvorbis" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libvpx" path="external/libvpx" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libxml2" path="external/libxml2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libxslt" path="external/libxslt" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/libyuv" path="external/libyuv" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/linux-tools-perf" path="external/linux-tools-perf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/littlemock" path="external/littlemock" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/llvm" path="external/llvm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/marisa-trie" path="external/marisa-trie" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/markdown" path="external/markdown" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mdnsresponder" path="external/mdnsresponder" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mksh" path="external/mksh" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mobicore" path="external/mobicore" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mockito" path="external/mockito" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mockwebserver" path="external/mockwebserver" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mp4parser" path="external/mp4parser" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/mtpd" path="external/mtpd" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/naver-fonts" path="external/naver-fonts" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/netcat" path="external/netcat" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/netperf" path="external/netperf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/neven" path="external/neven" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/nist-pkits" path="external/nist-pkits" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/nist-sip" path="external/nist-sip" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/noto-fonts" path="external/noto-fonts" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/oauth" path="external/oauth" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/objenesis" path="external/objenesis" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/okhttp" path="external/okhttp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/open-vcdiff" path="external/open-vcdiff" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/opencv" path="external/opencv" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/openfst" path="external/openfst" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/openssh" path="external/openssh" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/openssl" path="external/openssl" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/oprofile" path="external/oprofile" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ping" path="external/ping" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ping6" path="external/ping6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/powertop" path="external/powertop" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/ppp" path="external/ppp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/proguard" path="external/proguard" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/protobuf" path="external/protobuf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/protobuf-c" path="external/protobuf-c" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/qemu" path="external/qemu" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/qemu-pc-bios" path="external/qemu-pc-bios" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/quake" path="external/quake" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/regex-re2" path="external/regex-re2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/replicaisland" path="external/replicaisland" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/robolectric" path="external/robolectric" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/rp-pppoe" path="external/rp-pppoe" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/safe-iop" path="external/safe-iop" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/sepolicy" path="external/sepolicy" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/skia" path="external/skia" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/smack" path="external/smack" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/smali" path="external/smali" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/sonivox" path="external/sonivox" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/speex" path="external/speex" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/sqlite" path="external/sqlite" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/srec" path="external/srec" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/srtp" path="external/srtp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/stlport" path="external/stlport" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/strace" path="external/strace" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/stressapptest" path="external/stressapptest" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/svox" path="external/svox" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tagsoup" path="external/tagsoup" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tcpdump" path="external/tcpdump" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/timezonepicker-support" path="external/timezonepicker-support" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tinyalsa" path="external/tinyalsa" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tinyxml" path="external/tinyxml" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tinyxml2" path="external/tinyxml2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/tremolo" path="external/tremolo" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/v8" path="external/v8" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/valgrind" path="external/valgrind" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/webkit" path="external/webkit" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/webp" path="external/webp" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/webrtc" path="external/webrtc" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/xmlwriter" path="external/xmlwriter" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/xmp_toolkit" path="external/xmp_toolkit" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/yaffs2" path="external/yaffs2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/zlib" path="external/zlib" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/external/zxing" path="external/zxing" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/av" path="frameworks/av" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/base" path="frameworks/base" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/compile/llvm-ndk-cc" path="frameworks/compile/llvm-ndk-cc" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/ex" path="frameworks/ex" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/mff" path="frameworks/mff" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/ml" path="frameworks/ml" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/native" path="frameworks/native" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/calendar" path="frameworks/opt/calendar" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/carddav" path="frameworks/opt/carddav" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/colorpicker" path="frameworks/opt/colorpicker" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/connectivity" path="frameworks/opt/connectivity" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/datetimepicker" path="frameworks/opt/datetimepicker" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/mailcommon" path="frameworks/opt/mailcommon" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/mms" path="frameworks/opt/mms" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/net/voip" path="frameworks/opt/net/voip" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/photoviewer" path="frameworks/opt/photoviewer" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/telephony" path="frameworks/opt/telephony" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/telephony-msim" path="frameworks/opt/telephony-msim" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/timezonepicker" path="frameworks/opt/timezonepicker" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/opt/vcard" path="frameworks/opt/vcard" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/rs" path="frameworks/rs" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/support" path="frameworks/support" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/testing" path="frameworks/testing" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/volley" path="frameworks/volley" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/webview" path="frameworks/webview" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/frameworks/wilhelm" path="frameworks/wilhelm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/gdk" path="gdk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/akm" path="hardware/akm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/broadcom/libbt" path="hardware/broadcom/libbt" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/invensense" path="hardware/invensense" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/libhardware" path="hardware/libhardware" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/msm7k" path="hardware/msm7k" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/audio" path="hardware/qcom/audio" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/bt" path="hardware/qcom/bt" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/camera" path="hardware/qcom/camera" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/display" path="hardware/qcom/display" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/media" path="hardware/qcom/media" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/sensors" path="hardware/qcom/sensors" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/qcom/wlan" path="hardware/qcom/wlan" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ril" path="hardware/ril" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/samsung_slsi/exynos5" path="hardware/samsung_slsi/exynos5" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ti/omap4-aah" path="hardware/ti/omap4-aah" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/libcore" path="libcore" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/libnativehelper" path="libnativehelper" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/ndk" path="ndk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/pdk" path="pdk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/clang/darwin-x86/3.1" path="prebuilts/clang/darwin-x86/3.1" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/clang/darwin-x86/3.2" path="prebuilts/clang/darwin-x86/3.2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/clang/linux-x86/3.1" path="prebuilts/clang/linux-x86/3.1" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/clang/linux-x86/3.2" path="prebuilts/clang/linux-x86/3.2" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/devtools" path="prebuilts/devtools" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/eclipse" path="prebuilts/eclipse" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/host/headers" path="prebuilts/gcc/darwin-x86/host/headers" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/misc" path="prebuilts/misc" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/ndk" path="prebuilts/ndk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/qemu-kernel" path="prebuilts/qemu-kernel" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/sdk" path="prebuilts/sdk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/prebuilts/tools" path="prebuilts/tools" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/sdk" path="sdk" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/bluetooth" path="system/bluetooth" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/core" path="system/core" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/extras" path="system/extras" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/media" path="system/media" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/netd" path="system/netd" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/qcom" path="system/qcom" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/security" path="system/security" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/system/vold" path="system/vold" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/tools/external/fat32lib" path="tools/external/fat32lib" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/k-touch" path="vendor/k-touch" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/bluetooth" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/fm" path="vendor/qcom/opensource/fm" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/kernel/kernel-tests" path="vendor/qcom/opensource/kernel-tests" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/location" path="vendor/qcom/opensource/location" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/stm-log" path="vendor/qcom/opensource/stm-log" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/testframework" path="vendor/qcom/opensource/testframework" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-proprietary_source" path="vendor/qcom/proprietary" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/copper" path="device/qcom/msm8974" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/mpq8064" path="device/qcom/mpq8064" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm7627a" path="device/qcom/msm7627a" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm7630_surf" path="device/qcom/msm7630_surf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm8226" path="device/qcom/msm8226" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm8610" path="device/qcom/msm8610" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm8660_surf" path="device/qcom/msm8660_surf" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/msm8960" path="device/qcom/msm8960" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom/zinc" path="device/qcom/apq8084" revision="stm_jb_qrd8926_bsp_int"/>
+
+  <project name="jb/csp/qrd/platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Browser" path="packages/apps/Browser"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Calculator" path="packages/apps/Calculator"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Calendar" path="packages/apps/Calendar"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Camera" path="packages/apps/Camera"/>
+  <project name="jb/csp/qrd/platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver"/>
+  <project name="jb/csp/qrd/platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Contacts" path="packages/apps/Contacts"/>
+  <project name="jb/csp/qrd/platform/packages/apps/ContactsCommon" path="packages/apps/ContactsCommon"/>
+  <project name="jb/csp/qrd/platform/packages/apps/DeskClock" path="packages/apps/DeskClock"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Dialer" path="packages/apps/Dialer"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Email" path="packages/apps/Email"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Exchange" path="packages/apps/Exchange"/>
+  <project name="jb/csp/qrd/platform/packages/apps/FastPowerOn" path="packages/apps/FastPowerOn"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Gallery" path="packages/apps/Gallery"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Gallery2" path="packages/apps/Gallery2"/>
+  <project name="jb/csp/qrd/platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer"/>
+  <project name="jb/csp/qrd/platform/packages/apps/KeyChain" path="packages/apps/KeyChain"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Launcher2" path="packages/apps/Launcher2"/>
+  <project name="jb/csp/qrd/platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Mms" path="packages/apps/Mms"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Music" path="packages/apps/Music"/>
+  <project name="jb/csp/qrd/platform/packages/apps/MusicFX" path="packages/apps/MusicFX"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Nfc" path="packages/apps/Nfc"/>
+  <project name="jb/csp/qrd/platform/packages/apps/OneTimeInitializer" path="packages/apps/OneTimeInitializer"/>
+  <project name="jb/csp/qrd/platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Phone" path="packages/apps/Phone"/>
+  <project name="jb/csp/qrd/platform/packages/apps/PhoneCommon" path="packages/apps/PhoneCommon"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Protips" path="packages/apps/Protips"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Provision" path="packages/apps/Provision"/>
+  <project name="jb/csp/qrd/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Settings" path="packages/apps/Settings"/>
+  <project name="jb/csp/qrd/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService"/>
+  <project name="jb/csp/qrd/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder"/>
+  <project name="jb/csp/qrd/platform/packages/apps/SpareParts" path="packages/apps/SpareParts"/>
+  <project name="jb/csp/qrd/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Stk" path="packages/apps/Stk"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Tag" path="packages/apps/Tag"/>
+  <project name="jb/csp/qrd/platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
+  <project name="jb/csp/qrd/platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/>
+  <project name="jb/csp/qrd/platform/packages/experimental" path="packages/experimental"/>
+  <project name="jb/csp/qrd/platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME"/>
+  <project name="jb/csp/qrd/platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
+  <project name="jb/csp/qrd/platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME"/>
+  <project name="jb/csp/qrd/platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/PartnerBookmarksProvider" path="packages/providers/PartnerBookmarksProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider"/>
+  <project name="jb/csp/qrd/platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider"/>
+  <project name="jb/csp/qrd/platform/packages/screensavers/Basic" path="packages/screensavers/Basic"/>
+  <project name="jb/csp/qrd/platform/packages/screensavers/PhotoTable" path="packages/screensavers/PhotoTable"/>
+  <project name="jb/csp/qrd/platform/packages/screensavers/WebView" path="packages/screensavers/WebView"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/Basic" path="packages/wallpapers/Basic"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/Galaxy4" path="packages/wallpapers/Galaxy4"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/HoloSpiral" path="packages/wallpapers/HoloSpiral"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
+  <project name="jb/csp/qrd/platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam"/>
+
+  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" remote="origin11"/>
+  <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" remote="origin11"/> 
+</manifest>
