@@ -6,7 +6,7 @@
   <project name="jb/csp/qrd/anno" path="anno" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/tybuild" path="tybuild" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/tyconfig" path="tyconfig"/>
-  <project name="jb/csp/qrd/tymake" path="tymake" revision="stm_jb_qrd8926_bsp_int"/>
+  <project name="jb/csp/qrd/tymake" path="tymake"/>
 
   <project name="jb/csp/qrd/device/asus/deb" path="device/asus/deb" revision="stm_jb_qrd8926_bsp_int"/>
   <project name="jb/csp/qrd/device/asus/flo" path="device/asus/flo" revision="stm_jb_qrd8926_bsp_int"/>
