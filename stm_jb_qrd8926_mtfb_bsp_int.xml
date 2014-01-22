@@ -415,6 +415,7 @@
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/v8" path="vendor/qcom/opensource/v8"/>
   <project name="jb/csp/qrd/platform/vendor/qcom-opensource/wlan/prima" path="vendor/qcom/opensource/wlan/prima"/>
+  <project name="jb/csp/qrd/platform/vendor/qcom-proprietary_source" path="vendor/qcom/proprietary"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/copper" path="device/qcom/msm8974"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/mpq8064" path="device/qcom/mpq8064"/>
   <project name="jb/csp/qrd/platform/vendor/qcom/msm7627a" path="device/qcom/msm7627a"/>
