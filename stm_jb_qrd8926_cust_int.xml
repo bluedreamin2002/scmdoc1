@@ -456,6 +456,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" revision="stm_jb_cust_int" remote="origin11" />
