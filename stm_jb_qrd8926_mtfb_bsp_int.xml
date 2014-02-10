@@ -4,6 +4,7 @@
   <default remote="origin" revision="stm_jb_qrd8926_mtfb_bsp_int" />
   <project name="jb/csp/qrd/anno" path="anno"/>
   <project name="jb/csp/qrd/tybuild" path="tybuild"/>
+  <project name="jb/csp/qrd/tyconfig" path="tyconfig"/>
   <project name="jb/csp/qrd/tycustom" path="tycustom"/>
   <project name="jb/csp/qrd/tymake" path="tymake"/>
   
