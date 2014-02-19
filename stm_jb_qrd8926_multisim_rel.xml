@@ -410,7 +410,7 @@
   <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.7"/>
   <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6"/>
   <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7"/>
-  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86//x86_64-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7"/>
+  <project name="jb/csp/qrd/platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.7"/>
   <project name="jb/csp/qrd/platform/prebuilts/maven_repo/android" path="prebuilts/maven_repo/android"/>
   <project name="jb/csp/qrd/platform/prebuilts/misc" path="prebuilts/misc"/>
   <project name="jb/csp/qrd/platform/prebuilts/ndk" path="prebuilts/ndk"/>
