@@ -66,29 +66,6 @@
   <project name="jb/csp/qrd/platform/external/chromium-libpac" path="external/chromium-libpac"/>
   <project name="jb/csp/qrd/platform/external/chromium-trace" path="external/chromium-trace"/>
   <project name="jb/csp/qrd/platform/external/chromium_org" path="external/chromium_org"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/sdch/open-vcdiff" path="external/chromium_org/sdch/open-vcdiff"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/testing/gtest" path="external/chromium_org/testing/gtest"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/WebKit" path="external/chromium_org/third_party/WebKit"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/angle_dx11" path="external/chromium_org/third_party/angle_dx11"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/freetype" path="external/chromium_org/third_party/freetype"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/icu" path="external/chromium_org/third_party/icu"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/leveldatabase/src" path="external/chromium_org/third_party/leveldatabase/src"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/libjingle/source/talk" path="external/chromium_org/third_party/libjingle/source/talk"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" path="external/chromium_org/third_party/libphonenumber/src/phonenumbers"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/libphonenumber/src/resources" path="external/chromium_org/third_party/libphonenumber/src/resources"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/mesa/src" path="external/chromium_org/third_party/mesa/src"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/openssl" path="external/chromium_org/third_party/openssl"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/opus/src" path="external/chromium_org/third_party/opus/src"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/ots" path="external/chromium_org/third_party/ots"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/skia/gyp" path="external/chromium_org/third_party/skia/gyp"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/skia/include" path="external/chromium_org/third_party/skia/include"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/skia/src" path="external/chromium_org/third_party/skia/src"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/smhasher/src" path="external/chromium_org/third_party/smhasher/src"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/third_party/yasm/source/patched-yasm" path="external/chromium_org/third_party/yasm/source/patched-yasm"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/tools/grit" path="external/chromium_org/tools/grit"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/tools/gyp" path="external/chromium_org/tools/gyp"/>
-  <project name="jb/csp/qrd/platform/external/chromium_org/v8" path="external/chromium_org/v8"/>
   <project name="jb/csp/qrd/platform/external/cimax" path="external/cimax"/>  
   <project name="jb/csp/qrd/platform/external/clang" path="external/clang"/>
   <project name="jb/csp/qrd/platform/external/compiler-rt" path="external/compiler-rt"/>
