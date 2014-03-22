@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="ssh://10.10.100.21:29418" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="stm_jb_qrd8926_bsp_int" />
   <project name="jb/csp/qrd/anno" path="anno"/>
   <project name="jb/csp/qrd/tybuild" path="tybuild"/>

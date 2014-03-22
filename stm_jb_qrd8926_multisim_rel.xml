@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="ssh://10.10.100.21:29418" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="stm_jb_qrd8926_multisim_rel" />
   <project name="jb/csp/qrd/device/common" path="device/common"/>
   <project name="jb/csp/qrd/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
