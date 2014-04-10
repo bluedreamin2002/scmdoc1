@@ -465,5 +465,6 @@
   <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" revision="stm_kt_v1_cust_int" remote="origin11" />
 </manifest>
