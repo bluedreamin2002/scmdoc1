@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.12/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="rel/stm_jb_qrd8610la19c1_modem_v2002_rel" />
+  <default remote="origin" revision="rel/stm_tbw5976_modem_v2002_rel" />
   
   <project path="modem" name="jb/dsp/modem" />
   
