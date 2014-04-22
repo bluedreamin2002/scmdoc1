@@ -389,7 +389,7 @@
   <project name="jb/csp/qrd/platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="stm_jb_qrd8926_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/apps/OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="stm_jb_qrd8926_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="stm_jb_qrd8926_cust_int"/>
-  <project name="jb/csp/qrd/platform/packages/apps/Phone" path="packages/apps/Phone" revision="stm_jb_qrd8926_cust_int"/>
+  <project name="jb/csp/qrd/platform/packages/apps/Phone" path="packages/apps/Phone" revision="stm_jb_qrd8926_mtfb_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/apps/PhoneCommon" path="packages/apps/PhoneCommon" revision="stm_jb_qrd8926_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/apps/Protips" path="packages/apps/Protips" revision="stm_jb_qrd8926_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/apps/Provision" path="packages/apps/Provision" revision="stm_jb_qrd8926_cust_int"/>
