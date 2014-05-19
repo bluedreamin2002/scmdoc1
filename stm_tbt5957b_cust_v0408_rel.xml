@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="rel/stm_tbt5957b_cust_v0408_rel" />
   <project name="jb/csp/qrd/anno" path="anno"/>
   <project name="jb/csp/qrd/tybuild" path="tybuild"/>
@@ -426,7 +426,7 @@
   <project name="jb/csp/qrd/platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
   <project name="jb/csp/qrd/platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam"/>
 
-  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" remote="origin11" />
