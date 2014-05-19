@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_open_swe_bsp_int" />
+  
+  <project path="swe" name="open/swe" />
+</manifest>
