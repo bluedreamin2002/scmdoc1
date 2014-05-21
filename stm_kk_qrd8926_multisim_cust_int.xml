@@ -119,9 +119,10 @@
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" revision="stm_jb_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" revision="stm_jb_qrd_msm8x25_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" revision="stm_kt_qrd_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" revision="stm_jb_2.0_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" revision="stm_jb_qrd_msm8x25_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" revision="stm_kt_qrd8926_cust_int" remote="origin11" />
