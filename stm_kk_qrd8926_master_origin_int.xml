@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="stm_kk_qrd8926_multisim_origin_rel" />
+  <default remote="origin" revision="stm_kk_qrd8926_master_origin_int" />
 
   <project path="abi" name="kk/csp/qrd/platform/abi" />
   <project path="art" name="kk/csp/qrd/platform/art" />
