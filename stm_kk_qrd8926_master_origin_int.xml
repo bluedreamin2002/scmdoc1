@@ -29,7 +29,7 @@
   <project path="sdk" name="kk/csp/qrd/platform/sdk" />
   <project path="system" name="kk/csp/qrd/platform/system" />
   <project path="tools" name="kk/csp/qrd/platform/tools" />
-  <project path="vendor" name="kk/csp/qrd/platform/vendor" />
+  <project path="vendor" name="kk/csp/qrd/platform/vendor_volte" />
 
   <project path="frameworks" name="kk/csp/qrd/platform/frameworks" />
 
