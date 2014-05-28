@@ -6,6 +6,8 @@
   <project path="anno" name="kk/csp/qrd/anno" />
   <project path="tybuild" name="kk/csp/qrd/tybuild" />
   <project path="tyconfig" name="kk/csp/qrd/tyconfig" />
+  <project path="tymake" name="kk/csp/qrd/tymake" />
+  <project path="TYBspApp" name="kk/csp/qrd/TYBspApp" revision="stm_kk_qrd8926_bsp_int" />
 
   <project path="abi" name="kk/csp/qrd/platform/abi" />
   <project path="art" name="kk/csp/qrd/platform/art" />
@@ -33,7 +35,6 @@
   <project path="sdk" name="kk/csp/qrd/platform/sdk" />
   <project path="system" name="kk/csp/qrd/platform/system" />
   <project path="tools" name="kk/csp/qrd/platform/tools" />
-  <project path="tymake" name="kk/csp/qrd/tymake" />
   <project path="vendor" name="kk/csp/qrd/platform/vendor" />
 
   <project path="frameworks" name="kk/csp/qrd/platform/frameworks" />
