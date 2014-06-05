@@ -113,9 +113,9 @@
   <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" revision="stm_jb_mtk_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" revision="stm_kt_kk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" revision="stm_kt_v1_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" revision="stm_kt_kk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_jb_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v1_cust_int" remote="origin11" />
@@ -140,6 +140,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" revision="stm_jb_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" revision="stm_kt_kk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" revision="stm_kt_v1_cust_int" remote="origin11" /> 
 </manifest>
