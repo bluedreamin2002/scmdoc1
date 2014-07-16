@@ -5,7 +5,7 @@
   
   <project path="anno" name="kk/csp/qrd/anno" revision="stm_kk_qrd8926_la2.1.c2_cmcc_bsp_int" />
   <project path="tybuild" name="kk/csp/qrd/tybuild" revision="stm_kk_qrd8926_la2.1.c2_cmcc_bsp_int" />
-  <project path="tyconfig" name="kk/csp/qrd/tyconfig" revision="stm_kk_qrd8926_la2.1.c2_cmcc_bsp_int" />
+  <project path="tyconfig" name="kk/csp/qrd/tyconfig" revision="stm_kk_qrd8926_la2.1.c2_cmcc_tosv2_cust_int" />
   <project path="tymake" name="kk/csp/qrd/tymake" revision="stm_kk_qrd8926_la2.1.c2_cmcc_bsp_int" />
   <project path="TYBspApp" name="kk/csp/qrd/TYBspApp" revision="stm_kk_qrd8926_bsp_int" />
 
