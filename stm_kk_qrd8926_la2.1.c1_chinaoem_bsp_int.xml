@@ -55,6 +55,7 @@
   <project path="packages/apps/Email" name="kk/csp/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="kk/csp/packages/apps/Exchange" />
   <project path="packages/apps/FastPowerOn" name="kk/csp/packages/apps/FastPowerOn" />
+  <project path="packages/apps/FotaUpdateApp" name="kk/csp/packages/apps/FotaUpdateApp" />
   <project path="packages/apps/Gallery" name="kk/csp/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="kk/csp/packages/apps/HTMLViewer" />
