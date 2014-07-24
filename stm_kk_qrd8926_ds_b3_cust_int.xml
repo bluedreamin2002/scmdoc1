@@ -54,6 +54,7 @@
   <project path="packages/apps/Email" name="kk/csp/packages/apps/Email" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/Exchange" name="kk/csp/packages/apps/Exchange" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/FastPowerOn" name="kk/csp/packages/apps/FastPowerOn" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
+  <project path="packages/apps/FotaUpdateApp" name="kk/csp/packages/apps/FotaUpdateApp" revision="stm_kk_qrd8926_la2.1.c1_chinaoem_bsp_int" />
   <project path="packages/apps/Gallery" name="kk/csp/packages/apps/Gallery" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/HTMLViewer" name="kk/csp/packages/apps/HTMLViewer" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
