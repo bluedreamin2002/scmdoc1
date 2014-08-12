@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_kk_qrd8939_la1.1.c2_cta_modem_int" />
+  
+  <project path="modem" name="kk/dsp/modem_qrd8939" />
+  
+  <project path="tybuild" name="kk/dsp/tybuild" />
+  <project path="tymake" name="kk/dsp/tymake" />
+</manifest>
