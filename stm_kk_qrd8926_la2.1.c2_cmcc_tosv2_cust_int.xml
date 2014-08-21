@@ -144,6 +144,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" revision="stm_kt_v2_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" revision="stm_kt_v2_cust_int" remote="origin11" />
