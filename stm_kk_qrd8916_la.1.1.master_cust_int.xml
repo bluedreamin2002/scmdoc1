@@ -46,7 +46,7 @@
   <project path="packages/apps/Calendar" name="kk/csp/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="kk/csp/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" />
-  <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" />
+  <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="kk/csp/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="kk/csp/packages/apps/ContactsCommon" />
@@ -68,13 +68,13 @@
   <project path="packages/apps/MusicFX" name="kk/csp/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="kk/csp/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="kk/csp/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/Phone" name="kk/csp/packages/apps/Phone" />
   <project path="packages/apps/PhoneCommon" name="kk/csp/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="kk/csp/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="kk/csp/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="kk/csp/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" />
+  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/SmartCardService" name="kk/csp/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" />
@@ -96,7 +96,7 @@
   <project path="packages/providers/UserDictionaryProvider" name="kk/csp/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers" name="kk/csp/packages/screensavers" />
   <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" />
-  <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" />
+  <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
 
   <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8916_bsp_int" remote="origin11" />
