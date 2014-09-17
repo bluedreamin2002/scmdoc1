@@ -145,4 +145,5 @@
   <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" revision="stm_kt_kk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" revision="stm_kt_v1_cust_int" remote="origin11" /> 
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" revision="stm_kt_v1_cust_int" remote="origin11" />
 </manifest>
