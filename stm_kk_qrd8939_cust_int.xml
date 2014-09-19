@@ -78,7 +78,7 @@
   <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/SpeechRecorder" name="kk/csp/packages/apps/SpeechRecorder" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/apps/Stk" name="kk/csp/packages/apps/Stk" revision="stm_kk_qrd8939_cust_int" />
+  <project path="packages/apps/Stk" name="kk/csp/packages/apps/Stk" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Tag" name="kk/csp/packages/apps/Tag" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/UnifiedEmail" name="kk/csp/packages/apps/UnifiedEmail" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/VideoEditor" name="kk/csp/packages/apps/VideoEditor" revision="stm_kk_qrd8939_cust_int" />
@@ -94,7 +94,7 @@
   <project path="packages/providers/TelephonyProvider" name="kk/csp/packages/providers/TelephonyProvider" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/providers/UserDictionaryProvider" name="kk/csp/packages/providers/UserDictionaryProvider" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/screensavers" name="kk/csp/packages/screensavers" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" revision="stm_kk_qrd8939_cust_int" />
+  <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" revision="stm_kk_qrd8939_cust_int" />
 
   <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
