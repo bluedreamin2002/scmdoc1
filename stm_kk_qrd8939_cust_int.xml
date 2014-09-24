@@ -67,13 +67,13 @@
   <project path="packages/apps/MusicFX" name="kk/csp/packages/apps/MusicFX" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Nfc" name="kk/csp/packages/apps/Nfc" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/OneTimeInitializer" name="kk/csp/packages/apps/OneTimeInitializer" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
+  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/Phone" name="kk/csp/packages/apps/Phone" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/PhoneCommon" name="kk/csp/packages/apps/PhoneCommon" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Protips" name="kk/csp/packages/apps/Protips" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Provision" name="kk/csp/packages/apps/Provision" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/QuickSearchBox" name="kk/csp/packages/apps/QuickSearchBox" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
+  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/SmartCardService" name="kk/csp/packages/apps/SmartCardService" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" revision="stm_kk_qrd8939_cust_int" />
@@ -95,7 +95,7 @@
   <project path="packages/providers/UserDictionaryProvider" name="kk/csp/packages/providers/UserDictionaryProvider" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/screensavers" name="kk/csp/packages/screensavers" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
-  <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
+  <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
 
   <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8939_bsp_int" remote="origin11" />
