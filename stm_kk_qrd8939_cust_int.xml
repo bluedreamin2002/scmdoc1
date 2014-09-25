@@ -44,7 +44,7 @@
   <project path="packages/apps/Calculator" name="kk/csp/packages/apps/Calculator" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Calendar" name="kk/csp/packages/apps/Calendar" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Camera" name="kk/csp/packages/apps/Camera" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" revision="stm_kk_qrd8939_cust_int" />
+  <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Contacts" name="kk/csp/packages/apps/Contacts" revision="stm_kk_qrd8939_cust_int" />
@@ -55,7 +55,7 @@
   <project path="packages/apps/Exchange" name="kk/csp/packages/apps/Exchange" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/FastPowerOn" name="kk/csp/packages/apps/FastPowerOn" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/Gallery" name="kk/csp/packages/apps/Gallery" revision="stm_kk_qrd8939_cust_int" />
-  <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" revision="stm_kk_qrd8939_cust_int" />
+  <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/HTMLViewer" name="kk/csp/packages/apps/HTMLViewer" revision="stm_kk_qrd8939_cust_int" />
   <project path="packages/apps/InCallUI" name="kk/csp/packages/apps/InCallUI" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/KeyChain" name="kk/csp/packages/apps/KeyChain" revision="stm_kk_qrd8939_cust_int" />
