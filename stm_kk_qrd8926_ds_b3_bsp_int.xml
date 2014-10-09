@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="stm_kk_qrd8926_ds_b3_bsp_int" />
   <project path="anno" name="kk/csp/qrd/anno" />
   <project path="tybuild" name="kk/csp/qrd/tybuild" />
@@ -95,6 +95,6 @@
   <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" />
   <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" />
 
-  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_jb_qrd8926_mtfb_bsp_int" remote="origin11" />
 </manifest>
