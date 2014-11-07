@@ -128,6 +128,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" revision="stm_kt_v2_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQuickSettings" path="packages/apps/TYApps/TYQuickSettings" revision="rel/stm_tbw9737_jb_mt6582wet_cust_v0244_v110020_rel" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" revision="stm_kt_v2_cust_int" remote="origin11" />
