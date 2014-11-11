@@ -99,6 +99,7 @@
   <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
 
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="gms/google_gms_4.4.4" path="google" revision="master" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8916_bsp_int" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" revision="stm_kt_kk_tosv2_cust_int" remote="origin11" />
