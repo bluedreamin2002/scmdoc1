@@ -39,13 +39,13 @@
   <project path="frameworks" name="kk/csp/qrd/platform/frameworks" revision="stm_kk_qrd8x10_bsp_int" />
 
   <project path="packages/apps/BasicSmsReceiver" name="kk/csp/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="kk/csp/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="kk/csp/packages/apps/Bluetooth" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Calculator" name="kk/csp/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="kk/csp/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="kk/csp/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" />
+  <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Contacts" name="kk/csp/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="kk/csp/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="kk/csp/packages/apps/DeskClock" />
@@ -66,7 +66,7 @@
   <project path="packages/apps/MusicFX" name="kk/csp/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="kk/csp/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="kk/csp/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/PhoneCommon" name="kk/csp/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="kk/csp/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="kk/csp/packages/apps/Provision" />
