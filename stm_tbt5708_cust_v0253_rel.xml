@@ -100,59 +100,59 @@
 
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="gms/google_gms_4.4.4" path="google" revision="master" remote="origin11" />
-  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" />
-  <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" />
-  <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" />
-  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" />
-  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" />
-  <project name="jb/csp/packages/apps/TYApps/TYScreenColor" path="packages/apps/TYApps/TYScreenColor" />
+  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11" />
+  <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYScreenColor" path="packages/apps/TYApps/TYScreenColor" remote="origin11" />
 
-  <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" />
-  <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" />
-  <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" />
-  <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" />
-  <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" />
-  <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" />
-  <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" />
-  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" />
-  <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" />
-  <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" />
-  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" />
-  <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" />
-  <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" />
-  <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" />
-  <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" />
-  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" />
-  <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" />
-  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" />
-  <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" />
-  <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" />
-  <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" />
-  <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" />
-  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" />
-  <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" />
-  <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" />
-  <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" />
-  <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" />
-  <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" />
-  <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" />
-  <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" />
-  <project name="jb/csp/packages/apps/TYApps/TYMusicFX" path="packages/apps/TYApps/TYMusicFX" />
-  <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" />
-  <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" />
-  <project name="jb/csp/packages/apps/TYApps/TYNibiruPortal" path="packages/apps/TYApps/TYNibiruPortal" />
-  <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" />
-  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" />
-  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" />
-  <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" />
-  <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" />
-  <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" />
-  <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" />
-  <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" />
-  <project name="jb/csp/packages/apps/TYApps/TYTFMusicFX" path="packages/apps/TYApps/TYTFMusicFX" />
-  <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" />
-  <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" />
-  <project name="jb/csp/packages/apps/TYApps/TYVoiceClient" path="packages/apps/TYApps/TYVoiceClient" />
-  <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" />
-  <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" /> 
+  <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusicFX" path="packages/apps/TYApps/TYMusicFX" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNibiruPortal" path="packages/apps/TYApps/TYNibiruPortal" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTFMusicFX" path="packages/apps/TYApps/TYTFMusicFX" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceClient" path="packages/apps/TYApps/TYVoiceClient" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" remote="origin11" />
+  <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" remote="origin11" /> 
 </manifest>
