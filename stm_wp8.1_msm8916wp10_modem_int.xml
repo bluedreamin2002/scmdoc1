@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_wp8.1_msm8916wp10_modem_int" />
+  
+  <project path="modem" name="wp8.1/dsp/modem_msm8916" />
+  <project path="tybuild" name="wp8.1/dsp/tybuild" />
+  <project path="tymake" name="wp8.1/dsp/tymake" />
+</manifest>
