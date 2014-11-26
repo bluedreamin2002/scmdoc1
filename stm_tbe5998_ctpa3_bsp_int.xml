@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_tbe5998_ctpa3_bsp_int" />
+
+  <project path="anno" name="kk/csp/qrd/anno" revision="stm_kk_qrd8916_bsp_int" />
+  <project path="tybuild" name="kk/csp/qrd/tybuild" revision="stm_kk_qrd8916_bsp_int" />
+  <project path="tyconfig" name="kk/csp/qrd/tyconfig_8916" revision="stm_kk_qrd8916_bsp_int" />
+  <project path="tymake" name="kk/csp/qrd/tymake" revision="stm_kk_qrd8916_bsp_int" />
+  <project path="TYBspApp" name="kk/csp/qrd/TYBspApp" revision="stm_kk_qrd8916_bsp_int" />
+  
+  <project path="abi" name="kk/csp/qrd/platform/abi" />
+  <project path="art" name="kk/csp/qrd/platform/art" />
+  <project path="bionic" name="kk/csp/qrd/platform/bionic" />
+  <project path="bootable" name="kk/csp/qrd/platform/bootable" />
+  <project path="build" name="kk/csp/qrd/platform/build" >
+  	<copyfile dest="Makefile" src="core/root.mk"/>
+  </project>
+  <project path="cts" name="kk/csp/qrd/platform/cts" />
+  <project path="dalvik" name="kk/csp/qrd/platform/dalvik" />
+  <project path="developers" name="kk/csp/qrd/platform/developers" />
+  <project path="development" name="kk/csp/qrd/platform/development" />
+  <project path="device" name="kk/csp/qrd/platform/device" >
+  	<copyfile dest="build.sh" src="qcom/common/build.sh"/>
+  </project>
+  <project path="docs" name="kk/csp/qrd/platform/docs" />
+  <project path="external" name="kk/csp/qrd/platform/external" />
+  <project path="hardware" name="kk/csp/qrd/platform/hardware" />
+  <project path="kernel" name="kk/csp/qrd/kernel" />
+  <project path="libcore" name="kk/csp/qrd/platform/libcore" />
+  <project path="libnativehelper" name="kk/csp/qrd/platform/libnativehelper" />
+  <project path="ndk" name="kk/csp/qrd/platform/ndk" />
+  <project path="pdk" name="kk/csp/qrd/platform/pdk" />
+  <project path="prebuilts" name="kk/csp/qrd/platform/prebuilts" />
+  <project path="sdk" name="kk/csp/qrd/platform/sdk" />
+  <project path="system" name="kk/csp/qrd/platform/system" />
+  <project path="tools" name="kk/csp/qrd/platform/tools" />
+  <project path="vendor" name="kk/csp/qrd/platform/vendor" />
+
+  <project path="frameworks" name="kk/csp/qrd/platform/frameworks" />
+
+  <project path="packages/apps/BasicSmsReceiver" name="kk/csp/packages/apps/BasicSmsReceiver" />
+  <project path="packages/apps/Bluetooth" name="kk/csp/packages/apps/Bluetooth" />
+  <project path="packages/apps/Browser" name="kk/csp/packages/apps/Browser" />
+  <project path="packages/apps/Calculator" name="kk/csp/packages/apps/Calculator" />
+  <project path="packages/apps/Calendar" name="kk/csp/packages/apps/Calendar" />
+  <project path="packages/apps/Camera" name="kk/csp/packages/apps/Camera" />
+  <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" />
+  <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" />
+  <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" />
+  <project path="packages/apps/Contacts" name="kk/csp/packages/apps/Contacts" />
+  <project path="packages/apps/ContactsCommon" name="kk/csp/packages/apps/ContactsCommon" />
+  <project path="packages/apps/DeskClock" name="kk/csp/packages/apps/DeskClock" />
+  <project path="packages/apps/Dialer" name="kk/csp/packages/apps/Dialer" /> 
+  <project path="packages/apps/Email" name="kk/csp/packages/apps/Email" />
+  <project path="packages/apps/Exchange" name="kk/csp/packages/apps/Exchange" />
+  <project path="packages/apps/FastPowerOn" name="kk/csp/packages/apps/FastPowerOn" />
+  <project path="packages/apps/Gallery" name="kk/csp/packages/apps/Gallery" />
+  <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" />
+  <project path="packages/apps/HTMLViewer" name="kk/csp/packages/apps/HTMLViewer" />
+  <project path="packages/apps/InCallUI" name="kk/csp/packages/apps/InCallUI" />
+  <project path="packages/apps/KeyChain" name="kk/csp/packages/apps/KeyChain" />
+  <project path="packages/apps/Launcher2" name="kk/csp/packages/apps/Launcher2" />
+  <project path="packages/apps/Launcher3" name="kk/csp/packages/apps/Launcher3" />
+  <project path="packages/apps/LegacyCamera" name="kk/csp/packages/apps/LegacyCamera" />
+  <project path="packages/apps/Mms" name="kk/csp/packages/apps/Mms" />
+  <project path="packages/apps/Music" name="kk/csp/packages/apps/Music" />
+  <project path="packages/apps/MusicFX" name="kk/csp/packages/apps/MusicFX" />
+  <project path="packages/apps/Nfc" name="kk/csp/packages/apps/Nfc" />
+  <project path="packages/apps/OneTimeInitializer" name="kk/csp/packages/apps/OneTimeInitializer" />
+  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/Phone" name="kk/csp/packages/apps/Phone" />
+  <project path="packages/apps/PhoneCommon" name="kk/csp/packages/apps/PhoneCommon" />
+  <project path="packages/apps/Protips" name="kk/csp/packages/apps/Protips" />
+  <project path="packages/apps/Provision" name="kk/csp/packages/apps/Provision" />
+  <project path="packages/apps/QuickSearchBox" name="kk/csp/packages/apps/QuickSearchBox" />
+  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" />
+  <project path="packages/apps/SmartCardService" name="kk/csp/packages/apps/SmartCardService" />
+  <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" />
+  <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" />
+  <project path="packages/apps/SpeechRecorder" name="kk/csp/packages/apps/SpeechRecorder" />
+  <project path="packages/apps/Stk" name="kk/csp/packages/apps/Stk" />
+  <project path="packages/apps/Tag" name="kk/csp/packages/apps/Tag" />
+  <project path="packages/apps/UnifiedEmail" name="kk/csp/packages/apps/UnifiedEmail" />
+  <project path="packages/apps/VideoEditor" name="kk/csp/packages/apps/VideoEditor" />
+  <project path="packages/apps/VoiceDialer" name="kk/csp/packages/apps/VoiceDialer" />
+  <project path="packages/experimental" name="kk/csp/packages/experimental" />
+  <project path="packages/inputmethods" name="kk/csp/packages/inputmethods" />
+  <project path="packages/providers/ApplicationsProvider" name="kk/csp/packages/providers/ApplicationsProvider" />
+  <project path="packages/providers/CalendarProvider" name="kk/csp/packages/providers/CalendarProvider" />
+  <project path="packages/providers/ContactsProvider" name="kk/csp/packages/providers/ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" name="kk/csp/packages/providers/DownloadProvider" />
+  <project path="packages/providers/MediaProvider" name="kk/csp/packages/providers/MediaProvider" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="kk/csp/packages/providers/PartnerBookmarksProvider" />
+  <project path="packages/providers/TelephonyProvider" name="kk/csp/packages/providers/TelephonyProvider" />
+  <project path="packages/providers/UserDictionaryProvider" name="kk/csp/packages/providers/UserDictionaryProvider" />
+  <project path="packages/screensavers" name="kk/csp/packages/screensavers" />
+  <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" />
+  <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" />
+
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8916_bsp_int" remote="origin11" />
+  <project name="gms/google_gms_4.4.4" path="google" revision="master" remote="origin11" />
+</manifest>
