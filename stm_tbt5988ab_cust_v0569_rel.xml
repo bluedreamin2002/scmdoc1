@@ -149,6 +149,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYTFMusicFX" path="packages/apps/TYApps/TYTFMusicFX" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYUserGuide" path="packages/apps/TYApps/TYUserGuide" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" remote="origin11" /> 
   <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" remote="origin11" />
