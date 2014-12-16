@@ -113,7 +113,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" revision="stm_kt_v2_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" revision="stm_kt_v2_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" revision="stm_elder_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_kk_v2_cust_int" remote="origin11" />
