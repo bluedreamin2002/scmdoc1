@@ -3,7 +3,7 @@
   <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="stm_kk_msm8909-la-1-0_amss_modem_int" />
   
-  <project path="modem" name="kk/dsp/modem_qrd8916" />
+  <project path="modem" name="kk/dsp/modem_msm8909" />
   
   <project path="tybuild" name="kk/dsp/tybuild" />
   <project path="tymake" name="kk/dsp/tymake" />
