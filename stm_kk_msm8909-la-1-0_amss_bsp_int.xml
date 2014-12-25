@@ -6,6 +6,7 @@
   <project path="anno" name="kk/csp/qrd/anno" />
   <project path="tybuild" name="kk/csp/qrd/tybuild" />
   <project path="tyconfig" name="kk/csp/qrd/tyconfig_8909" />
+  <project path="tycustom" name="kk/csp/qrd/tycustom" />
   <project path="tymake" name="kk/csp/qrd/tymake" />
 
   <project path="abi" name="kk/csp/qrd/platform/abi" />
