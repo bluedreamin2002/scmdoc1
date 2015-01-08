@@ -40,13 +40,13 @@
   <project path="frameworks" name="kk/csp/qrd/platform/frameworks" revision="stm_kk_qrd8939_la2.1.1_bsp_int" />
 
   <project path="packages/apps/BasicSmsReceiver" name="kk/csp/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="kk/csp/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="kk/csp/packages/apps/Bluetooth" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Calculator" name="kk/csp/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="kk/csp/packages/apps/Calendar" />
   <project path="packages/apps/Camera" name="kk/csp/packages/apps/Camera" />
-  <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" />
+  <project path="packages/apps/Camera2" name="kk/csp/packages/apps/Camera2" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/CellBroadcastReceiver" name="kk/csp/packages/apps/CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" />
+  <project path="packages/apps/CertInstaller" name="kk/csp/packages/apps/CertInstaller" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Contacts" name="kk/csp/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="kk/csp/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="kk/csp/packages/apps/DeskClock" />
@@ -55,9 +55,9 @@
   <project path="packages/apps/Exchange" name="kk/csp/packages/apps/Exchange" />
   <project path="packages/apps/FastPowerOn" name="kk/csp/packages/apps/FastPowerOn" />
   <project path="packages/apps/Gallery" name="kk/csp/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" />
+  <project path="packages/apps/Gallery2" name="kk/csp/packages/apps/Gallery2" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/HTMLViewer" name="kk/csp/packages/apps/HTMLViewer" />
-  <project path="packages/apps/InCallUI" name="kk/csp/packages/apps/InCallUI" />
+  <project path="packages/apps/InCallUI" name="kk/csp/packages/apps/InCallUI" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/KeyChain" name="kk/csp/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="kk/csp/packages/apps/Launcher2" />
   <project path="packages/apps/Launcher3" name="kk/csp/packages/apps/Launcher3" />
@@ -67,18 +67,18 @@
   <project path="packages/apps/MusicFX" name="kk/csp/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="kk/csp/packages/apps/Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="kk/csp/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="kk/csp/packages/apps/PackageInstaller" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/Phone" name="kk/csp/packages/apps/Phone" />
   <project path="packages/apps/PhoneCommon" name="kk/csp/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="kk/csp/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="kk/csp/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="kk/csp/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" />
+  <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" revision="stm_kk_qrd8926_la2.1.c2_cmcc_cust_int" />
   <project path="packages/apps/SmartCardService" name="kk/csp/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="kk/csp/packages/apps/SpeechRecorder" />
-  <project path="packages/apps/Stk" name="kk/csp/packages/apps/Stk" />
+  <project path="packages/apps/Stk" name="kk/csp/packages/apps/Stk" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/apps/Tag" name="kk/csp/packages/apps/Tag" />
   <project path="packages/apps/UnifiedEmail" name="kk/csp/packages/apps/UnifiedEmail" />
   <project path="packages/apps/VideoEditor" name="kk/csp/packages/apps/VideoEditor" />
@@ -94,7 +94,7 @@
   <project path="packages/providers/TelephonyProvider" name="kk/csp/packages/providers/TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="kk/csp/packages/providers/UserDictionaryProvider" />
   <project path="packages/screensavers" name="kk/csp/packages/screensavers" />
-  <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" />
+  <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" revision="stm_kk_qrd8916_la.1.1.master_cust_int" />
   <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" />
 
   <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
