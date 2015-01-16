@@ -11,16 +11,12 @@
   <project path="art" name="L/csp/MTK/art" />
   <project path="bionic" name="L/csp/MTK/bionic" />
   <project path="bootable" name="L/csp/MTK/bootable" />
-  <project path="build" name="L/csp/MTK/build" >
-  	<copyfile dest="Makefile" src="core/root.mk"/>
-  </project>
+  <project path="build" name="L/csp/MTK/build" />
   <project path="cts" name="L/csp/MTK/cts" />
   <project path="dalvik" name="L/csp/MTK/dalvik" />
   <project path="developers" name="L/csp/MTK/developers" />
   <project path="development" name="L/csp/MTK/development" />
-  <project path="device" name="L/csp/MTK/device" >
-  	<copyfile dest="build.sh" src="qcom/common/build.sh"/>
-  </project>
+  <project path="device" name="L/csp/MTK/device" />
   <project path="docs" name="L/csp/MTK/docs" />
   <project path="external" name="L/csp/MTK/external" />
   <project path="hardware" name="L/csp/MTK/hardware" />
