@@ -66,7 +66,6 @@
   <project path="packages/apps/OMA-DM" name="L/csp/packages/apps/OMA-DM" />
   <project path="packages/apps/OneTimeInitializer" name="L/csp/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="L/csp/packages/apps/Phone" />
   <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="L/csp/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="L/csp/packages/apps/Provision" />
