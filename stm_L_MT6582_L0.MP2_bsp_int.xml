@@ -6,6 +6,7 @@
   <project path="tybuild" name="L/csp/MTK/tybuild" />
   <project path="tymake" name="L/csp/MTK/tymake" />
   <project path="tycustom" name="L/csp/MTK/tycustom" />
+  <project path="tyconfig" name="L/csp/MTK/tyconfig" />
   
   <project path="abi" name="L/csp/MTK/abi" />
   <project path="art" name="L/csp/MTK/art" />
