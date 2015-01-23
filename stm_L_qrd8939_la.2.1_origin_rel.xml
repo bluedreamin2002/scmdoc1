@@ -42,12 +42,14 @@
   <project path="packages/apps/Camera2" name="L/csp/packages/apps/Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="L/csp/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="L/csp/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="L/csp/packages/apps/CMFileManager" />
   <project path="packages/apps/Contacts" name="L/csp/packages/apps/Contacts" />
   <project path="packages/apps/ContactsCommon" name="L/csp/packages/apps/ContactsCommon" />
   <project path="packages/apps/DeskClock" name="L/csp/packages/apps/DeskClock" />
   <project path="packages/apps/Dialer" name="L/csp/packages/apps/Dialer" /> 
   <project path="packages/apps/Email" name="L/csp/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="L/csp/packages/apps/Exchange" />
+  <project path="packages/apps/FastPowerOn" name="L/csp/packages/apps/FastPowerOn" />
   <project path="packages/apps/Gallery" name="L/csp/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="L/csp/packages/apps/HTMLViewer" />
@@ -77,6 +79,7 @@
   <project path="packages/apps/SpeechRecorder" name="L/csp/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="L/csp/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="L/csp/packages/apps/Trebuchet" />
   <project path="packages/apps/TvSettings" name="L/csp/packages/apps/TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="L/csp/packages/apps/UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" name="L/csp/packages/apps/VoiceDialer" />
