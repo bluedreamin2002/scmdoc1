@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="stm_kk_qrd8939_la2.1.1_pro_cust_int" />
+  <default remote="origin" revision="stm_kk_qrd8939_la2.1.1_cust_int" />
 
   <project path="anno" name="kk/csp/qrd/anno" revision="stm_kk_qrd8939_la2.1.1_bsp_int" />
   <project path="tybuild" name="kk/csp/qrd/tybuild" revision="stm_kk_qrd8939_la2.1.1_bsp_int" />
