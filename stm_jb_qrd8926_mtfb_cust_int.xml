@@ -428,7 +428,7 @@
   <project name="jb/csp/qrd/platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField" revision="stm_jb_qrd8926_cust_int"/>
   <project name="jb/csp/qrd/platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam" revision="stm_jb_qrd8926_cust_int"/>
 	
-  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" revision="stm_kt_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" revision="stm_kt_v1_cust_int" remote="origin11" />

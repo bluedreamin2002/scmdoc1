@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="rel/stm_tbw5706_5992_oversea_v006079_rel" />
   
   <project path="anno" name="kk/csp/qrd/anno" />
@@ -99,6 +99,6 @@
   <project path="packages/services/Telephony" name="kk/csp/packages/services/Telephony" />
   <project path="packages/wallpapers" name="kk/csp/packages/wallpapers" />
 
-  <remote fetch="git://10.10.100.13" name="origin11" review="10.10.100.11:8080"/>
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11" />
 </manifest>
