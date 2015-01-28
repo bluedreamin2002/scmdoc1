@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <remote fetch="git://10.10.100.13/21" name="origin" review="10.10.100.21:8080"/>
   <default remote="origin" revision="stm_kk_qrd8926_la2.1.c1_origin_int" />
 
   <project path="abi" name="kk/csp/qrd/platform/abi" />
