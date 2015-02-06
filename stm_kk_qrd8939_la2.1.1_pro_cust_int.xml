@@ -123,7 +123,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v2_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_kt_v2_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v2_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_elder_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" revision="stm_elder_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" revision="stm_elder_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" revision="stm_kt_v2_cust_int" remote="origin11" />
