@@ -100,4 +100,5 @@
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="gms/google_gms_4.4.4" path="google" revision="master" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8939_bsp_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_elder_v1_cust_int" remote="origin11" /> 
 </manifest>
