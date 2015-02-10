@@ -105,4 +105,62 @@
 
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
   <project name="gms/google_gms_5.0" path="google" revision="master" remote="origin11" />
+  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8939_bsp_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" revision="stm_kt_v1_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYScreenColor" path="packages/apps/TYApps/TYScreenColor" revision="stm_kt_v3_cust_int" remote="origin11" />
+
+  <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFrameworkRes" path="packages/apps/TYApps/TYFrameworkRes" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusicFX" path="packages/apps/TYApps/TYMusicFX" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNibiruPortal" path="packages/apps/TYApps/TYNibiruPortal" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQuickSettingEx" path="packages/apps/TYApps/TYQuickSettingEx" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTFMusicFX" path="packages/apps/TYApps/TYTFMusicFX" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceClient" path="packages/apps/TYApps/TYVoiceClient" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceNotify" path="packages/apps/TYApps/TYVoiceNotify" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" revision="stm_kt_v3_cust_int" remote="origin11" />
 </manifest>
