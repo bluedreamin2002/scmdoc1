@@ -36,6 +36,8 @@
 
   <project path="frameworks" name="L/csp/MTK/frameworks" />
 
+  <project path="packages/apps/AdupsFotaApp" name="L/csp/packages/apps/AdupsFotaApp" revision="master" />
+
   <project path="packages/apps/BasicSmsReceiver" name="L/csp/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="L/csp/packages/apps/Bluetooth" />
   <project path="packages/apps/Browser" name="L/csp/packages/apps/Browser" />
