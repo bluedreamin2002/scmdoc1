@@ -69,6 +69,7 @@
   <project path="packages/apps/QuickSearchBox" name="kk/csp/packages/apps/QuickSearchBox" />
   <project path="packages/apps/Settings" name="kk/csp/packages/apps/Settings" />
   <project path="packages/apps/SmartCardService" name="kk/csp/packages/apps/SmartCardService" />
+  <project path="packages/apps/SnapdragonCamera" name="kk/csp/packages/apps/SnapdragonCamera" />
   <project path="packages/apps/SoundRecorder" name="kk/csp/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="kk/csp/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="kk/csp/packages/apps/SpeechRecorder" />
