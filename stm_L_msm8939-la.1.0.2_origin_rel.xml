@@ -38,6 +38,7 @@
   <project path="packages/apps/Browser" name="L/csp/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="L/csp/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="L/csp/packages/apps/Calendar" />
+  <project path="packages/apps/CallRecorder" name="L/csp/packages/apps/CallRecorder" />
   <project path="packages/apps/Camera" name="L/csp/packages/apps/Camera" />
   <project path="packages/apps/Camera2" name="L/csp/packages/apps/Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="L/csp/packages/apps/CellBroadcastReceiver" />
