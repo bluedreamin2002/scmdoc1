@@ -101,4 +101,7 @@
   <project path="packages/screensavers" name="L/csp/packages/screensavers" />
   <project path="packages/services" name="L/csp/packages/services" />
   <project path="packages/wallpapers" name="L/csp/packages/wallpapers" />
+
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="gms/google_gms_5.0" path="google" revision="master" remote="origin11" />
 </manifest>
