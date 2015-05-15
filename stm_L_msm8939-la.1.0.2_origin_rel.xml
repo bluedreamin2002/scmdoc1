@@ -78,6 +78,7 @@
   <project path="packages/apps/SpeechRecorder" name="L/csp/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="L/csp/packages/apps/Tag" />
+  <project path="packages/apps/Terminal" name="L/csp/packages/apps/Terminal" />
   <project path="packages/apps/TvSettings" name="L/csp/packages/apps/TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="L/csp/packages/apps/UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" name="L/csp/packages/apps/VoiceDialer" />
