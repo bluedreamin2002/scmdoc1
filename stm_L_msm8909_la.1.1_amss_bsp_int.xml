@@ -4,6 +4,7 @@
   <default remote="origin" revision="stm_L_msm8909_la.1.1_amss_bsp_int" />
   <project path="anno" name="L/csp/Qualcomm/anno" />
   <project path="tybuild" name="L/csp/Qualcomm/tybuild" />
+  <project path="tyconfig" name="L/csp/Qualcomm/tyconfig_8909" />
   <project path="tycustom" name="L/csp/Qualcomm/tycustom" />
   <project path="tymake" name="L/csp/Qualcomm/tymake" />
   
