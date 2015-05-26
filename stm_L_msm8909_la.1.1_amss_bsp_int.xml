@@ -99,5 +99,6 @@
   <project path="packages/wallpapers" name="L/csp/packages/wallpapers" />
 
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="gms/google_gms_5.1" path="google" revision="master" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_msm8909-la-1-0_amss_bsp_int" remote="origin11" />
 </manifest>
