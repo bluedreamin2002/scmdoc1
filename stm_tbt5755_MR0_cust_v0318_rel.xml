@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="rel/stm_tbt5755_MR0_cust_v0318_rel" />
+  <project path="anno" name="L/csp/Qualcomm/anno" />
+  <project path="tybuild" name="L/csp/Qualcomm/tybuild" />
+  <project path="tyconfig" name="L/csp/Qualcomm/tyconfig_8939" />
+  <project path="tymake" name="L/csp/Qualcomm/tymake" />
+  <project path="TYBspApp" name="L/csp/Qualcomm/TYBspApp" />
+
+  <project path="abi" name="L/csp/Qualcomm/platform/abi" />
+  <project path="art" name="L/csp/Qualcomm/platform/art" />
+  <project path="bionic" name="L/csp/Qualcomm/platform/bionic" />
+  <project path="bootable" name="L/csp/Qualcomm/platform/bootable" />
+  <project path="build" name="L/csp/Qualcomm/platform/build" >
+  	<copyfile dest="Makefile" src="core/root.mk"/>
+  </project>
+  <project path="cts" name="L/csp/Qualcomm/platform/cts" />
+  <project path="dalvik" name="L/csp/Qualcomm/platform/dalvik" />
+  <project path="developers" name="L/csp/Qualcomm/platform/developers" />
+  <project path="development" name="L/csp/Qualcomm/platform/development" />
+  <project path="device" name="L/csp/Qualcomm/platform/device" >
+  	<copyfile dest="build.sh" src="qcom/common/build.sh"/>
+  </project>
+  <project path="docs" name="L/csp/Qualcomm/platform/docs" />
+  <project path="external" name="L/csp/Qualcomm/platform/external" />
+  <project path="hardware" name="L/csp/Qualcomm/platform/hardware" />
+  <project path="kernel" name="L/csp/Qualcomm/kernel" />
+  <project path="libcore" name="L/csp/Qualcomm/platform/libcore" />
+  <project path="libnativehelper" name="L/csp/Qualcomm/platform/libnativehelper" />
+  <project path="ndk" name="L/csp/Qualcomm/platform/ndk" />
+  <project path="pdk" name="L/csp/Qualcomm/platform/pdk" />
+  <project path="prebuilts" name="L/csp/Qualcomm/platform/prebuilts" />
+  <project path="sdk" name="L/csp/Qualcomm/platform/sdk" />
+  <project path="system" name="L/csp/Qualcomm/platform/system" />
+  <project path="tools" name="L/csp/Qualcomm/platform/tools" />
+  <project path="vendor" name="L/csp/Qualcomm/platform/vendor" />
+
+  <project path="frameworks" name="L/csp/Qualcomm/platform/frameworks" />
+
+  <project path="packages/apps/BasicSmsReceiver" name="L/csp/packages/apps/BasicSmsReceiver" />
+  <project path="packages/apps/Bluetooth" name="L/csp/packages/apps/Bluetooth" />
+  <project path="packages/apps/Browser" name="L/csp/packages/apps/Browser" />
+  <project path="packages/apps/Calculator" name="L/csp/packages/apps/Calculator" />
+  <project path="packages/apps/Calendar" name="L/csp/packages/apps/Calendar" />
+  <project path="packages/apps/Camera" name="L/csp/packages/apps/Camera" />
+  <project path="packages/apps/Camera2" name="L/csp/packages/apps/Camera2" />
+  <project path="packages/apps/CellBroadcastReceiver" name="L/csp/packages/apps/CellBroadcastReceiver" />
+  <project path="packages/apps/CertInstaller" name="L/csp/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="L/csp/packages/apps/CMFileManager" />
+  <project path="packages/apps/Contacts" name="L/csp/packages/apps/Contacts" />
+  <project path="packages/apps/ContactsCommon" name="L/csp/packages/apps/ContactsCommon" />
+  <project path="packages/apps/DeskClock" name="L/csp/packages/apps/DeskClock" />
+  <project path="packages/apps/Dialer" name="L/csp/packages/apps/Dialer" /> 
+  <project path="packages/apps/Email" name="L/csp/packages/apps/Email" />
+  <project path="packages/apps/Exchange" name="L/csp/packages/apps/Exchange" />
+  <project path="packages/apps/FastPowerOn" name="L/csp/packages/apps/FastPowerOn" />
+  <project path="packages/apps/Gallery" name="L/csp/packages/apps/Gallery" />
+  <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" />
+  <project path="packages/apps/HTMLViewer" name="L/csp/packages/apps/HTMLViewer" />
+  <project path="packages/apps/InCallUI" name="L/csp/packages/apps/InCallUI" />
+  <project path="packages/apps/KeyChain" name="L/csp/packages/apps/KeyChain" />
+  <project path="packages/apps/Launcher2" name="L/csp/packages/apps/Launcher2" />
+  <project path="packages/apps/Launcher3" name="L/csp/packages/apps/Launcher3" />
+  <project path="packages/apps/LegacyCamera" name="L/csp/packages/apps/LegacyCamera" />
+  <project path="packages/apps/ManagedProvisioning" name="L/csp/packages/apps/ManagedProvisioning" />
+  <project path="packages/apps/Mms" name="L/csp/packages/apps/Mms" />
+  <project path="packages/apps/Music" name="L/csp/packages/apps/Music" />
+  <project path="packages/apps/MusicFX" name="L/csp/packages/apps/MusicFX" />
+  <project path="packages/apps/Nfc" name="L/csp/packages/apps/Nfc" />
+  <project path="packages/apps/OMA-DM" name="L/csp/packages/apps/OMA-DM" />
+  <project path="packages/apps/OneTimeInitializer" name="L/csp/packages/apps/OneTimeInitializer" />
+  <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/Phone" name="L/csp/packages/apps/Phone" />
+  <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" />
+  <project path="packages/apps/Protips" name="L/csp/packages/apps/Protips" />
+  <project path="packages/apps/Provision" name="L/csp/packages/apps/Provision" />
+  <project path="packages/apps/QuickSearchBox" name="L/csp/packages/apps/QuickSearchBox" />
+  <project path="packages/apps/Settings" name="L/csp/packages/apps/Settings" />
+  <project path="packages/apps/SmartCardService" name="L/csp/packages/apps/SmartCardService" />
+  <project path="packages/apps/SnapdragonCamera" name="L/csp/packages/apps/SnapdragonCamera" />
+  <project path="packages/apps/SoundRecorder" name="L/csp/packages/apps/SoundRecorder" />
+  <project path="packages/apps/SpareParts" name="L/csp/packages/apps/SpareParts" />
+  <project path="packages/apps/SpeechRecorder" name="L/csp/packages/apps/SpeechRecorder" />
+  <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" />
+  <project path="packages/apps/Tag" name="L/csp/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="L/csp/packages/apps/Trebuchet" />
+  <project path="packages/apps/TvSettings" name="L/csp/packages/apps/TvSettings" />
+  <project path="packages/apps/UnifiedEmail" name="L/csp/packages/apps/UnifiedEmail" />
+  <project path="packages/apps/VoiceDialer" name="L/csp/packages/apps/VoiceDialer" />
+  <project path="packages/experimental" name="L/csp/packages/experimental" />
+  <project path="packages/inputmethods" name="L/csp/packages/inputmethods" />
+  <project path="packages/providers/ApplicationsProvider" name="L/csp/packages/providers/ApplicationsProvider" />
+  <project path="packages/providers/CalendarProvider" name="L/csp/packages/providers/CalendarProvider" />
+  <project path="packages/providers/ContactsProvider" name="L/csp/packages/providers/ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" name="L/csp/packages/providers/DownloadProvider" />
+  <project path="packages/providers/MediaProvider" name="L/csp/packages/providers/MediaProvider" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="L/csp/packages/providers/PartnerBookmarksProvider" />
+  <project path="packages/providers/TelephonyProvider" name="L/csp/packages/providers/TelephonyProvider" />
+  <project path="packages/providers/TvProvider" name="L/csp/packages/providers/TvProvider" />
+  <project path="packages/providers/UserDictionaryProvider" name="L/csp/packages/providers/UserDictionaryProvider" />
+  <project path="packages/screensavers" name="L/csp/packages/screensavers" />
+  <project path="packages/services" name="L/csp/packages/services" />
+  <project path="packages/wallpapers" name="L/csp/packages/wallpapers" />
+
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="gms/google_gms_5.0" path="google" revision="master" remote="origin11" />
+  <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" remote="origin11" />
+  <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYScreenColor" path="packages/apps/TYApps/TYScreenColor" remote="origin11" />
+
+  <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYBrowserRes" path="packages/apps/TYApps/TYBrowserRes" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCamera" path="packages/apps/TYApps/TYCamera" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYColorClockWidget" path="packages/apps/TYApps/TYColorClockWidget" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass" path="packages/apps/TYApps/TYCompass" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCompass3D" path="packages/apps/TYApps/TYCompass3D" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYContacts" path="packages/apps/TYApps/TYContacts" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCIClockWGT" path="packages/apps/TYApps/TYCIClockWGT" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock" path="packages/apps/TYApps/TYClock" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYDocumentsUI" path="packages/apps/TYApps/TYDocumentsUI" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFrameworkRes" path="packages/apps/TYApps/TYFrameworkRes" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYGallery" path="packages/apps/TYApps/TYGallery" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYOta" path="packages/apps/TYApps/TYOta" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPortal" path="packages/apps/TYApps/TYPortal" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYPSClockWGT" path="packages/apps/TYApps/TYPSClockWGT" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQcSmsRegist" path="packages/apps/TYApps/TYQcSmsRegist" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMusicFX" path="packages/apps/TYApps/TYMusicFX" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYNibiruPortal" path="packages/apps/TYApps/TYNibiruPortal" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQuickSettingEx" path="packages/apps/TYApps/TYQuickSettingEx" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYRemoteSecurity" path="packages/apps/TYApps/TYRemoteSecurity" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSilentInstall" path="packages/apps/TYApps/TYSilentInstall" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSpss" path="packages/apps/TYApps/TYSpss" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSoundRecorder" path="packages/apps/TYApps/TYSoundRecorder" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTaskManager" path="packages/apps/TYApps/TYTaskManager" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYTFMusicFX" path="packages/apps/TYApps/TYTFMusicFX" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVideoPlayer" path="packages/apps/TYApps/TYVideoPlayer" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoice" path="packages/apps/TYApps/TYVoice" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceClient" path="packages/apps/TYApps/TYVoiceClient" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceNotify" path="packages/apps/TYApps/TYVoiceNotify" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFramework" path="packages/apps/TYApps/TYFramework" remote="origin11" />
+  <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" remote="origin11" />
+</manifest>
