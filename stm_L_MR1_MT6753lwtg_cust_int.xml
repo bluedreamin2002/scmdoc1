@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_L_MR1_MT6753lwtg_bsp_int" />
+  <project path="anno" name="L/csp/MTK/anno" />
+  <project path="tybuild" name="L/csp/MTK/tybuild" />
+  <project path="tymake" name="L/csp/MTK/tymake" />
+  <project path="tyconfig" name="L/csp/MTK/tyconfig" />
+  <project path="typatch" name="L/csp/MTK/typatch" />
+  
+  <project path="abi" name="L/csp/MTK/abi" />
+  <project path="art" name="L/csp/MTK/art" />
+  <project path="bionic" name="L/csp/MTK/bionic" />
+  <project path="bootable" name="L/csp/MTK/bootable" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="build" name="L/csp/MTK/build" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="cts" name="L/csp/MTK/cts" />
+  <project path="dalvik" name="L/csp/MTK/dalvik" />
+  <project path="developers" name="L/csp/MTK/developers" />
+  <project path="development" name="L/csp/MTK/development" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="device" name="L/csp/MTK/device" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="docs" name="L/csp/MTK/docs" />
+  <project path="external" name="L/csp/MTK/external" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="hardware" name="L/csp/MTK/hardware" />
+  <project path="kernel-3.10" name="L/csp/MTK/kernel" />
+  <project path="libcore" name="L/csp/MTK/libcore" />
+  <project path="libnativehelper" name="L/csp/MTK/libnativehelper" />
+  <project path="md32" name="L/csp/MTK/md32" />
+  <project path="modem" name="L/dsp/MTK/modem" />
+  <project path="ndk" name="L/csp/MTK/ndk" />
+  <project path="pdk" name="L/csp/MTK/pdk" />
+  <project path="prebuilts" name="L/csp/MTK/prebuilts" />
+  <project path="sdk" name="L/csp/MTK/sdk" />
+  <project path="system" name="L/csp/MTK/system" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="tools" name="L/csp/MTK/tools" />
+  <project path="vendor" name="L/csp/MTK/vendor" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+
+  <project path="frameworks" name="L/csp/MTK/frameworks" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+
+  <project path="packages/apps/BasicSmsReceiver" name="L/csp/packages/apps/BasicSmsReceiver" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Bluetooth" name="L/csp/packages/apps/Bluetooth" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Browser" name="L/csp/packages/apps/Browser" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Calculator" name="L/csp/packages/apps/Calculator" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Calendar" name="L/csp/packages/apps/Calendar" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Camera" name="L/csp/packages/apps/Camera" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Camera2" name="L/csp/packages/apps/Camera2" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/CellBroadcastReceiver" name="L/csp/packages/apps/CellBroadcastReceiver" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/CertInstaller" name="L/csp/packages/apps/CertInstaller" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Contacts" name="L/csp/packages/apps/Contacts" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/ContactsCommon" name="L/csp/packages/apps/ContactsCommon" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/DeskClock" name="L/csp/packages/apps/DeskClock" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Dialer" name="L/csp/packages/apps/Dialer" revision="stm_L_MR1_MT6753lwtg_cust_int" /> 
+  <project path="packages/apps/Email" name="L/csp/packages/apps/Email" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Exchange" name="L/csp/packages/apps/Exchange" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Gallery" name="L/csp/packages/apps/Gallery" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/HTMLViewer" name="L/csp/packages/apps/HTMLViewer" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/InCallUI" name="L/csp/packages/apps/InCallUI" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/KeyChain" name="L/csp/packages/apps/KeyChain" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Launcher2" name="L/csp/packages/apps/Launcher2" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Launcher3" name="L/csp/packages/apps/Launcher3" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/LegacyCamera" name="L/csp/packages/apps/LegacyCamera" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/ManagedProvisioning" name="L/csp/packages/apps/ManagedProvisioning" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Mms" name="L/csp/packages/apps/Mms" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Music" name="L/csp/packages/apps/Music" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/MusicFX" name="L/csp/packages/apps/MusicFX" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Nfc" name="L/csp/packages/apps/Nfc" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/OMA-DM" name="L/csp/packages/apps/OMA-DM" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/OneTimeInitializer" name="L/csp/packages/apps/OneTimeInitializer" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Protips" name="L/csp/packages/apps/Protips" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Provision" name="L/csp/packages/apps/Provision" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/QuickSearchBox" name="L/csp/packages/apps/QuickSearchBox" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Settings" name="L/csp/packages/apps/Settings" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/SoundRecorder" name="L/csp/packages/apps/SoundRecorder" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/SpareParts" name="L/csp/packages/apps/SpareParts" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/SpeechRecorder" name="L/csp/packages/apps/SpeechRecorder" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Tag" name="L/csp/packages/apps/Tag" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/Terminal" name="L/csp/packages/apps/Terminal" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/TvSettings" name="L/csp/packages/apps/TvSettings" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/UnifiedEmail" name="L/csp/packages/apps/UnifiedEmail" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/apps/VoiceDialer" name="L/csp/packages/apps/VoiceDialer" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/experimental" name="L/csp/packages/experimental" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/inputmethods" name="L/csp/packages/inputmethods" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/ApplicationsProvider" name="L/csp/packages/providers/ApplicationsProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/CalendarProvider" name="L/csp/packages/providers/CalendarProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/ContactsProvider" name="L/csp/packages/providers/ContactsProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/DownloadProvider" name="L/csp/packages/providers/DownloadProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/MediaProvider" name="L/csp/packages/providers/MediaProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="L/csp/packages/providers/PartnerBookmarksProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/TelephonyProvider" name="L/csp/packages/providers/TelephonyProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/TvProvider" name="L/csp/packages/providers/TvProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/providers/UserDictionaryProvider" name="L/csp/packages/providers/UserDictionaryProvider" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/screensavers" name="L/csp/packages/screensavers" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/services" name="L/csp/packages/services" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+  <project path="packages/wallpapers" name="L/csp/packages/wallpapers" revision="stm_L_MR1_MT6753lwtg_cust_int" />
+
+  <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
+  <project name="gms/google_gms_5.0" path="google" revision="master" remote="origin11" />
+</manifest>
