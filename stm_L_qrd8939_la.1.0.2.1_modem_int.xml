@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="stm_L_msm8939_la.1.0.2.1_modem_int" />
+  <default remote="origin" revision="stm_L_qrd8939_la.1.0.2.1_modem_int" />
   
   <project path="modem" name="L/dsp/modem_qct8939" />
   
