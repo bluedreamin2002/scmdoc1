@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="rel/stm_tbt5755_modem_oversea_v2042_rel" />
+  
+  <project path="modem" name="L/dsp/modem_qct8939" />
+  
+  <project path="tybuild" name="L/dsp/tybuild" />
+  <project path="tymake" name="L/dsp/tymake" />
+</manifest>
