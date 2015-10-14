@@ -137,6 +137,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYFrameworkRes" path="packages/apps/TYApps/TYFrameworkRes" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYGallery" path="packages/apps/TYApps/TYGallery" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYLauncher" path="packages/apps/TYApps/TYLauncher" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYLidWindow" path="packages/apps/TYApps/TYLidWindow" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMms" path="packages/apps/TYApps/TYMms" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMusic" path="packages/apps/TYApps/TYMusic" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNote" path="packages/apps/TYApps/TYNote" revision="stm_kt_v3_cust_int" remote="origin11" />
