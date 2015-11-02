@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="stm_M_msm8996_la.1.0_modem_int" />
+  
+  <project path="modem" name="M/dsp/modem_msm8996" />
+  
+  <project path="tybuild" name="M/dsp/tybuild" />
+  <project path="tymake" name="M/dsp/tymake" />
+</manifest>
