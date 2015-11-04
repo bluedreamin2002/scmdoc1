@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="ssh://10.10.100.21:29418" name="origin" review="10.10.100.21:8080"/>
+  <default remote="origin" revision="rel/stm_tbl5761_modem_v0053_rel" />
+  
+  <project path="modem" name="L/dsp/modem_msm8909" />
+  
+  <project path="tybuild" name="L/dsp/tybuild" />
+  <project path="tymake" name="L/dsp/tymake" />
+</manifest>
