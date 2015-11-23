@@ -155,7 +155,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNumLocation" path="packages/apps/TYApps/TYNumLocation" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNibiruPortal" path="packages/apps/TYApps/TYNibiruPortal" revision="stm_kt_v3_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYQuickSettingEx" path="packages/apps/TYApps/TYQuickSettingEx" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYQuickSettingEx" path="packages/apps/TYApps/TYQuickSettingEx" revision="stm_kt_v4_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYRemoteSecurity" path="packages/apps/TYApps/TYRemoteSecurity" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" revision="stm_kt_v3_cust_int" remote="origin11" />
