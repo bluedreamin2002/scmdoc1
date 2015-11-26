@@ -7,6 +7,7 @@
   <project path="tybuild" name="L/csp/MTK/tybuild" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
   <project path="tymake" name="L/csp/MTK/tymake" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
   <project path="tycustom" name="L/csp/MTK/tycustom" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
+  <project path="tyconfig" name="L/csp/MTK/tyconfig" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
   
   <project path="abi" name="L/csp/MTK/abi" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
   <project path="art" name="L/csp/MTK/art" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_bsp_int" />
@@ -161,6 +162,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYVoiceClient" path="packages/apps/TYApps/TYVoiceClient" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoiceNotify" path="packages/apps/TYApps/TYVoiceNotify" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYVoiceservice" path="packages/apps/TYApps/TYVoiceservice" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYWizard" path="packages/apps/TYApps/TYWizard" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFramework" path="packages/apps/TYApps/TYFramework" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="ktouch/TYApps/TYWallpaper" path="packages/apps/TYApps/TYWallpaper" revision="stm_kt_v3_cust_int" remote="origin11" />  
 </manifest>
