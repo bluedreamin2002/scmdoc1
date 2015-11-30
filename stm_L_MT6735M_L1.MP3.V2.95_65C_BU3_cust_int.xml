@@ -42,7 +42,7 @@
   <project path="packages/apps/Browser" name="L/csp/packages/apps/Browser" />
   <project path="packages/apps/Calculator" name="L/csp/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="L/csp/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="L/csp/packages/apps/Camera" />
+  <project path="packages/apps/Camera" name="L/csp/packages/apps/Camera" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/Camera2" name="L/csp/packages/apps/Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" name="L/csp/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="L/csp/packages/apps/CertInstaller" />
@@ -53,7 +53,7 @@
   <project path="packages/apps/Email" name="L/csp/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="L/csp/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="L/csp/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" />
+  <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/HTMLViewer" name="L/csp/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="L/csp/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="L/csp/packages/apps/KeyChain" />
