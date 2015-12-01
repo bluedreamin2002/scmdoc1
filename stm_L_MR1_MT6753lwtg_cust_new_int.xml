@@ -54,7 +54,7 @@
   <project path="packages/apps/Gallery" name="L/csp/packages/apps/Gallery" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/Gallery2" name="L/csp/packages/apps/Gallery2" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/HTMLViewer" name="L/csp/packages/apps/HTMLViewer" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
-  <project path="packages/apps/InCallUI" name="L/csp/packages/apps/InCallUI" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
+  <project path="packages/apps/InCallUI" name="L/csp/packages/apps/InCallUI" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_cust_int" />
   <project path="packages/apps/KeyChain" name="L/csp/packages/apps/KeyChain" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/Launcher2" name="L/csp/packages/apps/Launcher2" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/Launcher3" name="L/csp/packages/apps/Launcher3" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
@@ -67,7 +67,7 @@
   <project path="packages/apps/OMA-DM" name="L/csp/packages/apps/OMA-DM" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/OneTimeInitializer" name="L/csp/packages/apps/OneTimeInitializer" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
-  <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
+  <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_cust_int" />
   <project path="packages/apps/Protips" name="L/csp/packages/apps/Protips" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/Provision" name="L/csp/packages/apps/Provision" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/apps/QuickSearchBox" name="L/csp/packages/apps/QuickSearchBox" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
@@ -93,7 +93,7 @@
   <project path="packages/providers/TvProvider" name="L/csp/packages/providers/TvProvider" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/providers/UserDictionaryProvider" name="L/csp/packages/providers/UserDictionaryProvider" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
   <project path="packages/screensavers" name="L/csp/packages/screensavers" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
-  <project path="packages/services" name="L/csp/packages/services" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
+  <project path="packages/services" name="L/csp/packages/services" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_cust_int" />
   <project path="packages/wallpapers" name="L/csp/packages/wallpapers" revision="stm_L_MR1_MT6753lwtg_cust_new_int" />
 
   <remote fetch="git://10.10.100.15" name="origin11" review="10.10.100.11:8080"/>
