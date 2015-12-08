@@ -115,7 +115,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYClock2" path="packages/apps/TYApps/TYClock2" revision="stm_kt_v3_mtk_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCustomServer" path="packages/apps/TYApps/TYCustomServer" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYDlna" path="packages/apps/TYApps/TYDlna" revision="stm_kt_v3_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYDocumentsUI" path="packages/apps/TYApps/TYDocumentsUI" revision="stm_kt_v3_mtk_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYDocumentsUI" path="packages/apps/TYApps/TYDocumentsUI" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v3_cust_int" remote="origin11" />
