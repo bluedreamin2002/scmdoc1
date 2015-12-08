@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="git://10.10.100.15/21" name="origin" review="10.10.100.21:8080"/>
-  <default remote="origin" revision="rel/stm_tbw5770_oversea_v000045_rel" />
+  <default remote="origin" revision="rel/stm_tbw5770_oversea_v000050_rel" />
   <project path="anno" name="L/csp/Qualcomm/anno" />
   <project path="tybuild" name="L/csp/Qualcomm/tybuild" />
   <project path="tyconfig" name="L/csp/Qualcomm/tyconfig_8939" />
