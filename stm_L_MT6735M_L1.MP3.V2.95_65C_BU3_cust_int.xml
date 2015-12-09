@@ -67,7 +67,7 @@
   <project path="packages/apps/Nfc" name="L/csp/packages/apps/Nfc" />
   <project path="packages/apps/OMA-DM" name="L/csp/packages/apps/OMA-DM" />
   <project path="packages/apps/OneTimeInitializer" name="L/csp/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="L/csp/packages/apps/PackageInstaller" revision="stm_L_MR1_MT6753lwtg_cust_new_int"/>
   <project path="packages/apps/PhoneCommon" name="L/csp/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="L/csp/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="L/csp/packages/apps/Provision" />
