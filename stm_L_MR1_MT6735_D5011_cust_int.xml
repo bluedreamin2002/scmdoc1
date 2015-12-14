@@ -96,6 +96,7 @@
   <project name="gms/google_gms_5.1" path="google" revision="master" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCommon" path="packages/apps/3rdCommon" revision="stm_kk_qrd8939_bsp_int" remote="origin11" />
   <project name="jb/csp/packages/apps/3rdCustApp" path="packages/apps/3rdCustApp" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYAppLock" path="packages/apps/TYAppLock" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYUnifiedEmail" path="packages/apps/TYApps/TYUnifiedEmail" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYEmail" path="packages/apps/TYApps/TYEmail" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" revision="stm_kt_v3_cust_int" remote="origin11" />
