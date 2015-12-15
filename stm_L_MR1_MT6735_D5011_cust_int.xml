@@ -120,6 +120,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFota" path="packages/apps/TYApps/TYFota" revision="stm_kt_v1_followme_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFrameworkRes" path="packages/apps/TYApps/TYFrameworkRes" revision="stm_kt_v3_mtk_cust_int" remote="origin11" />
