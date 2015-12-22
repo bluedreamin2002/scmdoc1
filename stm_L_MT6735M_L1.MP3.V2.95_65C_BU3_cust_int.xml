@@ -76,7 +76,7 @@
   <project path="packages/apps/SoundRecorder" name="L/csp/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="L/csp/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="L/csp/packages/apps/SpeechRecorder" />
-  <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" revision="stm_L_MT6735M_L1.MP3.V2.95_65C_BU3_cust_int" />
+  <project path="packages/apps/Stk" name="L/csp/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="L/csp/packages/apps/Tag" />
   <project path="packages/apps/Terminal" name="L/csp/packages/apps/Terminal" />
   <project path="packages/apps/TvSettings" name="L/csp/packages/apps/TvSettings" />
