@@ -109,6 +109,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYBrowserRes" path="packages/apps/TYApps/TYBrowserRes" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYBackgroundManager" path="packages/apps/TYApps/TYBackgroundManager" revision="stm_followme_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCalculator" path="packages/apps/TYApps/TYCalculator" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCalendar" path="packages/apps/TYApps/TYCalendar" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYCamera" path="packages/apps/TYApps/TYCamera" revision="master" remote="origin11" />
