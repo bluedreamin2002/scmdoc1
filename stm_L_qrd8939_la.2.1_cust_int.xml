@@ -112,6 +112,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYExchange" path="packages/apps/TYApps/TYExchange" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYScreenColor" path="packages/apps/TYApps/TYScreenColor" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYAppLock" path="packages/apps/TYApps/TYAppLock" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYAppRecord" path="packages/apps/TYApps/TYAppRecord" revision="stm_followme_v1_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYAudioProfile" path="packages/apps/TYApps/TYAudioProfile" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYBrowserRes" path="packages/apps/TYApps/TYBrowserRes" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYBackupRestore" path="packages/apps/TYApps/TYBackupRestore" revision="stm_kt_v3_cust_int" remote="origin11" />
