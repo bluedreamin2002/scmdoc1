@@ -133,7 +133,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYDocumentsUI" path="packages/apps/TYApps/TYDocumentsUI" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYEnvironment" path="packages/apps/TYApps/TYEnvironment" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFileBrowser" path="packages/apps/TYApps/TYFileBrowser" revision="stm_kt_v3_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYFirewall" path="packages/apps/TYApps/TYFirewall" revision="stm_kt_v4_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFlashLight" path="packages/apps/TYApps/TYFlashLight" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFMRadio" path="packages/apps/TYApps/TYFMRadio" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYFota" path="packages/apps/TYApps/TYFota" revision="stm_kt_v1_followme_cust_int" remote="origin11" />
@@ -162,7 +162,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYQuickSettingEx" path="packages/apps/TYApps/TYQuickSettingEx" revision="stm_kt_v4_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYRemoteSecurity" path="packages/apps/TYApps/TYRemoteSecurity" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYRingtone" path="packages/apps/TYApps/TYRingtone" revision="stm_kt_v3_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYSaveBattery" path="packages/apps/TYApps/TYSaveBattery" revision="stm_kt_v4_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSecCapability" path="packages/apps/TYApps/TYSecCapability" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSettings" path="packages/apps/TYApps/TYSettings" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSceneDesk" path="packages/apps/TYApps/TYSceneDesk" revision="stm_kt_v3_cust_int" remote="origin11" />
