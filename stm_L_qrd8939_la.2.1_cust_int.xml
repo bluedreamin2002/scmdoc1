@@ -153,7 +153,7 @@
   <project name="jb/csp/packages/apps/TYApps/TYResOverlay" path="packages/apps/TYApps/TYResOverlay" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYSimpleClockWidget" path="packages/apps/TYApps/TYSimpleClockWidget" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYThemeSettings" path="packages/apps/TYApps/TYThemeSettings" revision="stm_kt_v3_cust_int" remote="origin11" />
-  <project name="jb/csp/packages/apps/TYApps/TYMobileDataManager" path="packages/apps/TYApps/TYMobileDataManager" revision="stm_kt_v3_cust_int" remote="origin11" />
+  <project name="jb/csp/packages/apps/TYApps/TYMobileDataManager" path="packages/apps/TYApps/TYMobileDataManager" revision="stm_kt_v4_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMTKSmsRegist" path="packages/apps/TYApps/TYMTKSmsRegist" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYMusicFX" path="packages/apps/TYApps/TYMusicFX" revision="stm_kt_v3_cust_int" remote="origin11" />
   <project name="jb/csp/packages/apps/TYApps/TYNumberLite" path="packages/apps/TYApps/TYNumberLite" revision="stm_kt_v3_cust_int" remote="origin11" />
